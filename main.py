@@ -7,7 +7,7 @@ system('cls')
 #DECLARANDO LISTA DE ALUNOS
 lista_alunos = []
 
-#OUTRA PARTE DO ARTHUR RODRIGUES
+#INÍCIO DA OUTRA PARTE DO ARTHUR RODRIGUES
 
 #FUNÇÃO MENU INTRODUTÓRIO
 def menu_introdutorio():
@@ -35,6 +35,7 @@ def menu_introdutorio():
         
     else:
         print("\033[31mNúmero inválido\033[m")           
+#FIM DA OUTRA PARTE DO ARTHUR RODRIGUES
 
 #INÍCIO DA PARTE DA JANIELY RIBEIRO
 #FUNÇÃO CADASTRAR ALUNOS
